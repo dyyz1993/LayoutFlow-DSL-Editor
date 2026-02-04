@@ -1,0 +1,5 @@
+{
+  "name": "LayoutFlow DSL Editor",
+  "description": "A visual DSL editor for responsive layouts using absolute positioning logic, dynamic parent calculation, and multi-unit support (px, %, vw, vh).",
+  "requestFramePermissions": []
+}
